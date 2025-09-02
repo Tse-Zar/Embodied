@@ -25,6 +25,8 @@
                     <MenuItem Header="Save File" Click="SaveClick" Style="{DynamicResource MenuItemStyle}"></MenuItem>
                     <Separator/>
 
+                    <MenuItem Header="Prefereneces" Click="" Style="{DynamicResource MenuItemStyle}"></MenuItem>
+
                     <MenuItem Header="Exit" Style="{DynamicResource MenuItemStyle}" Click="ApplicationClose"></MenuItem>
                 </MenuItem>
             </Menu>
